@@ -14,6 +14,10 @@ A short technical explainer about successful execution, hidden compensation, and
 
 A deadpan systems story about fast capability, formal training, professional judgment, and what "or equivalent" looks like when both experience and evidence matter.
 
+### [The Think-a-Thon Incident](writing/the-think-a-thon-incident.html)
+
+A systems satire about automation, semantic drift, and what happens when every component does its job correctly.
+
 ## Technical Work
 
 - [Monolith Cartographer](https://github.com/harleybielke/Monolith-Cartographer) — local-first PowerShell codebase mapping and user-focused software documentation.

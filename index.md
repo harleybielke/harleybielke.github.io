@@ -10,6 +10,10 @@ My background is in manufacturing and machine operation. My current work focuses
 
 A short technical explainer about successful execution, hidden compensation, and why a result arriving at the right place does not necessarily prove the path was trustworthy.
 
+### [The Certified Applicant](writing/the-certified-applicant.html)
+
+A deadpan systems story about fast capability, formal training, professional judgment, and what "or equivalent" looks like when both experience and evidence matter.
+
 ## Technical Work
 
 - [Monolith Cartographer](https://github.com/harleybielke/Monolith-Cartographer) — local-first PowerShell codebase mapping and user-focused software documentation.

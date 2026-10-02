@@ -1,5 +1,3 @@
-# Harley Bielke
-
 **Technical Writing · Systems Analysis · Software Testing**
 
 I investigate how software behaves, test the boundaries of what can actually be claimed, and turn that understanding into documentation people can use.
@@ -11,8 +9,6 @@ My background is in manufacturing and machine operation. My current work focuses
 ### [The Mailman Knows the Route](writing/the-mailman-knows-the-route.html)
 
 A short technical explainer about successful execution, hidden compensation, and why a result arriving at the right place does not necessarily prove the path was trustworthy.
-
-More writing will be added as finished pieces are selected for the portfolio.
 
 ## Technical Work
 
